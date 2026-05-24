@@ -10,7 +10,6 @@ Gyema connects two sides of every delivery: **Senders** with packages to move an
 
 - **[gyema-app](https://github.com/tsotsoobi/gyema-app)** — Next.js frontend, Supabase auth bridge keyed on `pi_username`, in-memory sessions. The main consumer surface.
 - **[gyema-contracts](https://github.com/tsotsoobi/gyema-contracts)** — Soroban smart contracts for V2 escrow: three-pot model, customer-confirms-primary release, admin-arbitrated dispute resolution. 762 lines of Rust, 12 passing tests.
-- **[gyema-backend](https://github.com/tsotsoobi/gyema-backend)** — supporting infrastructure.
 - **[pillgh.com](https://github.com/tsotsoobi/pillgh.com)** — Pi Logistics Ltd. — the company behind Gyema.
 
 ---
